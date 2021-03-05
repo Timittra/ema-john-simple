@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/%7Bema-john-simple-basic%7D/static/css/main.abc2e834.chunk.css",
+    "main.js": "/%7Bema-john-simple-basic%7D/static/js/main.48db47a1.chunk.js",
+    "main.js.map": "/%7Bema-john-simple-basic%7D/static/js/main.48db47a1.chunk.js.map",
+    "runtime-main.js": "/%7Bema-john-simple-basic%7D/static/js/runtime-main.df3713c7.js",
+    "runtime-main.js.map": "/%7Bema-john-simple-basic%7D/static/js/runtime-main.df3713c7.js.map",
+    "static/js/2.97094f27.chunk.js": "/%7Bema-john-simple-basic%7D/static/js/2.97094f27.chunk.js",
+    "static/js/2.97094f27.chunk.js.map": "/%7Bema-john-simple-basic%7D/static/js/2.97094f27.chunk.js.map",
+    "static/js/3.f3d01d81.chunk.js": "/%7Bema-john-simple-basic%7D/static/js/3.f3d01d81.chunk.js",
+    "static/js/3.f3d01d81.chunk.js.map": "/%7Bema-john-simple-basic%7D/static/js/3.f3d01d81.chunk.js.map",
+    "index.html": "/%7Bema-john-simple-basic%7D/index.html",
+    "static/css/main.abc2e834.chunk.css.map": "/%7Bema-john-simple-basic%7D/static/css/main.abc2e834.chunk.css.map",
+    "static/js/2.97094f27.chunk.js.LICENSE.txt": "/%7Bema-john-simple-basic%7D/static/js/2.97094f27.chunk.js.LICENSE.txt",
+    "static/media/giphy.46a86830.gif": "/%7Bema-john-simple-basic%7D/static/media/giphy.46a86830.gif",
+    "static/media/logo.0dd9a510.png": "/%7Bema-john-simple-basic%7D/static/media/logo.0dd9a510.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df3713c7.js",
+    "static/js/2.97094f27.chunk.js",
+    "static/css/main.abc2e834.chunk.css",
+    "static/js/main.48db47a1.chunk.js"
+  ]
+}
