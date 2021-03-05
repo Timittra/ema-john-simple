@@ -1,0 +1,52 @@
+[{
+    "id": 1,
+    "name": "Butterfly",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv4Rad2LwWnx72f8x_qSEzrnxgHJlErrUkUA&usqp=CAU",
+    "email": "tmaryman0@paypal.com",
+    "gender": "Bigender"
+  }, {
+    "id": 2,
+    "name": "Nat Kmiec",
+    "email": "nkmiec1@google.com.hk",
+    "gender": "Male"
+  }, {
+    "id": 3,
+    "name": "Stesha Cappell",
+    "email": "scappell2@netlog.com",
+    "gender": "Genderqueer"
+  }, {
+    "id": 4,
+    "name": "Edithe Langfat",
+    "email": "elangfat3@ycombinator.com",
+    "gender": "Non-binary"
+  }, {
+    "id": 5,
+    "name": "Reggie McAlroy",
+    "email": "rmcalroy4@tamu.edu",
+    "gender": "Polygender"
+  }, {
+    "id": 6,
+    "name": "Shermy Heathfield",
+    "email": "sheathfield5@ezinearticles.com",
+    "gender": "Male"
+  }, {
+    "id": 7,
+    "name": "Carolina Spicer",
+    "email": "cspicer6@sourceforge.net",
+    "gender": "Male"
+  }, {
+    "id": 8,
+    "name": "Sandy Laird-Craig",
+    "email": "slairdcraig7@istockphoto.com",
+    "gender": "Bigender"
+  }, {
+    "id": 9,
+    "name": "Cecilia Titterton",
+    "email": "ctitterton8@cargocollective.com",
+    "gender": "Bigender"
+  }, {
+    "id": 10,
+    "name": "Gilles Cham",
+    "email": "gcham9@hatena.ne.jp",
+    "gender": "Genderqueer"
+  }]
