@@ -24,7 +24,7 @@ function App() {
  const [loggedInUser, setLoggedInUser] = useState({});
   return (
     <UserContext.Provider value={[loggedInUser, setLoggedInUser]}>
-      {/* <p>Log In User email In App js: {loggedInUser.email}</p> */}
+      <p>Email: {loggedInUser.email}</p>
       
       <Router>
       <Header></Header>
